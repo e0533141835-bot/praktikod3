@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const apiUrl = "http://localhost:5278";
+const apiUrl = "https://todoapi-sb35.onrender.com";
+
 
 export default {
   // שליפת כל המשימות
